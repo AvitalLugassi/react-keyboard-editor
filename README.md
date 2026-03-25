@@ -107,27 +107,6 @@ This structure ensures:
 * Reusability
 * Maintainability
 
----
-
-##  Screenshots
-
-###  Login Screen
-
-![Login](./screenshots/login.png)
-
----
-
-###  Editor Interface
-
-![Editor](./screenshots/editor.png)
-
----
-
-###  Mobile View
-
-<p align="center">
-  <img src="./screenshots/mobile.png" width="250"/>
-</p>
 
 ---
 
