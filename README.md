@@ -107,7 +107,9 @@ This structure ensures:
 * Reusability
 * Maintainability
 
-
+git add .
+git commit -m "describe your change"
+git push
 ---
 
 ##  Tech Stack
